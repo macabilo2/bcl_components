@@ -1,0 +1,22 @@
+OS:Material,
+  Fiber Cement Board - 4 mm.,             !- Name
+  Smooth,                                 !- Roughness
+  0.004,                                  !- Thickness {m}
+  0.127,                                  !- Conductivity {W/m-K}
+  1250,                                   !- Density {kg/m3}
+  2100;                                   !- Specific Heat {J/kg-K}
+
+OS:ComponentData:Tags,
+  OS:ComponentData 1;       ! ComponentData Name
+
+OS:ComponentData,
+  OS:ComponentData 1,       ! Name
+  {70938b3d-f88f-4684-aa47-734958e52c29},  ! UUID
+  {6e877af9-372f-45f9-b2b8-b4b020eecd63},  ! Version UUID
+  ,                         ! Description
+  ,                         ! Fidelity Level
+  OS_Material,              ! Type of Object 1
+  Fiber Cement Board - 4 mm.;  ! Name of Object 1
+
+OS:ComponentData:Attributes,
+  OS:ComponentData 1;       ! ComponentData Name
