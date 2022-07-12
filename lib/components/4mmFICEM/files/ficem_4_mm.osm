@@ -1,0 +1,8 @@
+OS:Material,
+  {d5d41657-599e-42ac-9a35-c68fa3887dcc}, !- Handle
+  Concrete Hollow Block - 15 mm.,         !- Name
+  Rough,                                  !- Roughness
+  0.015,                                  !- Thickness {m}
+  0.155,                                  !- Conductivity {W/m-K}
+  1529,                                   !- Density {kg/m3}
+  880;                                    !- Specific Heat {J/kg-K}
