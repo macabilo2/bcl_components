@@ -1,8 +1,8 @@
 OS:Material,
   {4eb128fc-7ba0-4696-8515-c8d29bdbb380}, !- Handle
-  Concrete Hollow Block - 15 mm.,         !- Name
-  Rough,                                  !- Roughness
-  0.015,                                  !- Thickness {m}
-  0.155,                                  !- Conductivity {W/m-K}
-  1529,                                   !- Density {kg/m3}
-  880;                                    !- Specific Heat {J/kg-K}
+  Fiber Cement Board - 4 mm.,             !- Name
+  Smooth,                                 !- Roughness
+  0.004,                                  !- Thickness {m}
+  0.127,                                  !- Conductivity {W/m-K}
+  1250,                                   !- Density {kg/m3}
+  2100;                                   !- Specific Heat {J/kg-K}
