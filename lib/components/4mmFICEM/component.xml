@@ -1,0 +1,65 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>4mmFICEM</name>
+ <uid>4eb128fc-7ba0-4696-8515-c8d29bdbb380</uid>
+ <version_id>e9ae31cf-89b7-4074-95b1-e5f30e081250</version_id>
+ <xml_checksum/>
+ <display_name>Fiber Cement Board - 4 mm.</display_name>
+ <description>Material based on Philippine academic building construction documents</description>
+ <modeler_description>Material object for FiCem Board - 4mm</modeler_description>
+ <tags>
+  <tag>Material.Opaque.Building Board and Siding</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Category</name>
+   <value>Fiber Cement</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Thickness</name>
+   <value>0.004</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.127</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Density</name>
+   <value>1250.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Specific Heat</name>
+   <value>2100.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Interior Ceiling</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Interior Wall</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>OpenStudio Type</name>
+   <value>OS:Material</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.4.0</identifier>
+   </version>
+   <filename>ficem_4_mm.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
