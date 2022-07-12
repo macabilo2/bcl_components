@@ -1,5 +1,4 @@
 OS:Material,
-  {4eb128fc-7ba0-4696-8515-c8d29bdbb380}, !- Handle
   Fiber Cement Board - 4 mm.,             !- Name
   Smooth,                                 !- Roughness
   0.004,                                  !- Thickness {m}
