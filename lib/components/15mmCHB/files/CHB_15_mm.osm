@@ -1,0 +1,7 @@
+OS:Material,
+  Concrete Hollow Block - 15 mm.,  ! Name
+  Rough,                    ! Roughness
+  0.015,                    ! Thickness {m}
+  0.155,                    ! Conductivity {W/m-K}
+  880,                      ! Density {kg/m3}
+  1529;                     ! Specific Heat {J/kg-K}
