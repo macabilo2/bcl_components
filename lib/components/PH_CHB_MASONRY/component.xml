@@ -1,0 +1,40 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>PhCHBMasonry</name>
+ <uid>084b5778-0197-11ed-b939-0242ac120002</uid>
+ <version_id>14869e44-0197-11ed-b939-0242ac120002</version_id>
+ <xml_checksum/>
+ <display_name>PH CHB Masonry</display_name>
+ <description>Building construction material used in the Philippines</description>
+ <modeler_description>15mm thk. masonry wall with textured cement</modeler_description>
+ <tags>
+  <tag>Whole Building</tag>
+ </tags>
+ <attributes>
+   <attribute>
+   <name>Country</name>
+   <value>Philippines</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Building Type</name>
+   <value>Academic-University</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Climate Zone</name>
+   <value>1A</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.4.0</identifier>
+   </version>
+   <filename>ph_academic_bldg.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
