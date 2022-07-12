@@ -56,10 +56,26 @@
   <file>
    <version>
     <software_program>OpenStudio</software_program>
-    <identifier>3.4.0</identifier>
+    <identifier>0.7.0</identifier>
    </version>
    <filename>ficem_4_mm.osm</filename>
    <filetype>osm</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.7.0</identifier>
+   </version>
+   <filename>ficem_4_mm.osc</filename>
+   <filetype>osc</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>EnergyPlus</software_program>
+    <identifier>7.0.0.036</identifier>
+   </version>
+   <filename>ficem_4_mm.idf</filename>
+   <filetype>idf</filetype>
   </file>
  </files>
 </component>
