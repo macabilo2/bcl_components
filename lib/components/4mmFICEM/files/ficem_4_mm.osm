@@ -1,5 +1,5 @@
 OS:Material,
-  {d5d41657-599e-42ac-9a35-c68fa3887dcc}, !- Handle
+  {4eb128fc-7ba0-4696-8515-c8d29bdbb380}, !- Handle
   Concrete Hollow Block - 15 mm.,         !- Name
   Rough,                                  !- Roughness
   0.015,                                  !- Thickness {m}
