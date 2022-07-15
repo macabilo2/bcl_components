@@ -1,0 +1,76 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>MahoganyPanel</name>
+ <uid>5262198a-4ea7-4fd0-9b6b-6a398f57fa8b</uid>
+ <version_id>4c58958f-51d3-4786-bea8-e24f9b99211c</version_id>
+ <xml_checksum/>
+ <display_name>Mahogany Panel 36 mm.</display_name>
+ <description>Material based on Philippine academic building construction documents</description>
+ <modeler_description>Material object for 36mm Mahogany Panel</modeler_description>
+ <tags>
+  <tag>Material.Opaque.Solid Wood</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Category</name>
+   <value>Mahogany</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Thickness</name>
+   <value>0.036</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.12</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Density</name>
+   <value>560.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Specific Heat</name>
+   <value>1760.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Exterior Door</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>OpenStudio Type</name>
+   <value>OS:Material</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.7.0</identifier>
+   </version>
+   <filename>Mahogany_36_mm.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.7.0</identifier>
+   </version>
+   <filename>Mahogany_36_mm.osc</filename>
+   <filetype>osc</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>EnergyPlus</software_program>
+    <identifier>7.0.0.036</identifier>
+   </version>
+   <filename>Mahogany_36_mm.idf</filename>
+   <filetype>idf</filetype>
+  </file>
+ </files>
+</component>

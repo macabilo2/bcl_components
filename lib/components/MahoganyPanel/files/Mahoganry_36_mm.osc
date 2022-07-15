@@ -1,0 +1,22 @@
+OS:Material,
+  Mahogany Panel - 36 mm.,        		 !- Name
+  Smooth,                                !- Roughness
+  0.036,                                 !- Thickness {m}
+  0.12,                                  !- Conductivity {W/m-K}
+  560,                                   !- Density {kg/m3}
+  1760;                                  !- Specific Heat {J/kg-K}
+
+OS:ComponentData:Tags,
+  OS:ComponentData 1;       ! ComponentData Name
+
+OS:ComponentData,
+  OS:ComponentData 1,       ! Name
+  {09a98f2f-3e97-4d91-9e2b-4d558f5a3c34},  ! UUID
+  {bbc6c830-5387-40e5-b24f-85f7d725e255},  ! Version UUID
+  ,                         ! Description
+  ,                         ! Fidelity Level
+  OS_Material,              ! Type of Object 1
+  Concrete Hollow Block - 15 mm.;  ! Name of Object 1
+
+OS:ComponentData:Attributes,
+  OS:ComponentData 1;       ! ComponentData Name

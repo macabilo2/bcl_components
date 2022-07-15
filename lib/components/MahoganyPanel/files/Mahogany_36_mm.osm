@@ -1,0 +1,7 @@
+OS:Material,
+  Mahogany Panel - 36 mm.,        		 !- Name
+  Smooth,                                !- Roughness
+  0.036,                                 !- Thickness {m}
+  0.12,                                  !- Conductivity {W/m-K}
+  560,                                   !- Density {kg/m3}
+  1760;                                  !- Specific Heat {J/kg-K}
